@@ -1,0 +1,186 @@
+{
+  "fontFamily": "\"AppleGothic\", sans-serif",
+  "fontSizeMultiplier": 1.1,
+  "chars": {
+    "KC_1": {
+      "top": "+",
+      "bottom": "ๅ"
+    },
+    "KC_2": {
+      "top": "๑",
+      "bottom": "/"
+    },
+    "KC_3": {
+      "top": "๒",
+      "bottom": "_"
+    },
+    "KC_4": {
+      "top": "๓",
+      "bottom": "ภ"
+    },
+    "KC_5": {
+      "top": "๔",
+      "bottom": "ถ"
+    },
+    "KC_6": {
+      "top": "ู",
+      "bottom": "ุ"
+    },
+    "KC_7": {
+      "top": "฿",
+      "bottom": "ึ"
+    },
+    "KC_8": {
+      "top": "๕",
+      "bottom": "ค"
+    },
+    "KC_9": {
+      "top": "๖",
+      "bottom": "ต"
+    },
+    "KC_0": {
+      "top": "๗",
+      "bottom": "จ"
+    },
+    "KC_A": {
+      "top": "ฤ",
+      "bottom": "ฟ"
+    },
+    "KC_B": {
+      "top": "ฺ",
+      "bottom": "ิ"
+    },
+    "KC_C": {
+      "top": "ฉ",
+      "bottom": "แ"
+    },
+    "KC_D": {
+      "top": "ฏ",
+      "bottom": "ก"
+    },
+    "KC_E": {
+      "top": "ฎ",
+      "bottom": "ำ"
+    },
+    "KC_F": {
+      "top": "โ",
+      "bottom": "ด"
+    },
+    "KC_G": {
+      "top": "ฌ",
+      "bottom": "เ"
+    },
+    "KC_H": {
+      "top": "็",
+      "bottom": "้"
+    },
+    "KC_I": {
+      "top": "ณ",
+      "bottom": "ร"
+    },
+    "KC_J": {
+      "top": "๋",
+      "bottom": "่"
+    },
+    "KC_K": {
+      "top": "ษ",
+      "bottom": "า"
+    },
+    "KC_L": {
+      "top": "ศ",
+      "bottom": "ส"
+    },
+    "KC_M": {
+      "top": "?",
+      "bottom": "ท"
+    },
+    "KC_N": {
+      "top": "์",
+      "bottom": "ื"
+    },
+    "KC_O": {
+      "top": "ฯ",
+      "bottom": "น"
+    },
+    "KC_P": {
+      "top": "ญ",
+      "bottom": "ย"
+    },
+    "KC_Q": {
+      "top": "๐",
+      "bottom": "ๆ"
+    },
+    "KC_R": {
+      "top": "ฑ",
+      "bottom": "พ"
+    },
+    "KC_S": {
+      "top": "ฆ",
+      "bottom": "ห"
+    },
+    "KC_T": {
+      "top": "ธ",
+      "bottom": "ะ"
+    },
+    "KC_W": {
+      "top": "\"",
+      "bottom": "ไ"
+    },
+    "KC_U": {
+      "top": "๊",
+      "bottom": "ี"
+    },
+    "KC_V": {
+      "top": "ฮ",
+      "bottom": "อ"
+    },
+    "KC_X": {
+      "top": ")",
+      "bottom": "ป"
+    },
+    "KC_Y": {
+      "top": "ํ",
+      "bottom": "ั"
+    },
+    "KC_Z": {
+      "top": "(",
+      "bottom": "ผ"
+    },
+    "KC_COMM": {
+      "top": "ฒ",
+      "bottom": "ม"
+    },
+    "KC_DOT": {
+      "top": "ฬ",
+      "bottom": "ใ"
+    },
+    "KC_LBRC": {
+      "top": "ฐ",
+      "bottom": "บ"
+    },
+    "KC_RBRC": {
+      "top": ",",
+      "bottom": "ล"
+    },
+    "KC_SCLN": {
+      "top": "ซ",
+      "bottom": "ว"
+    },
+    "KC_QUOT": {
+      "top": ".",
+      "bottom": "ง"
+    },
+    "KC_MINS": {
+      "top": "๘",
+      "bottom": "ข"
+    },
+    "KC_EQL": {
+      "top": "๙",
+      "bottom": "ช"
+    },
+    "KC_SLSH": {
+      "top": "ฦ",
+      "bottom": "ฝ"
+    }
+  }
+}

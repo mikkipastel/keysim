@@ -90,6 +90,7 @@ export default function BoardOptions() {
             { label: "Hebrew", value: "hebrew" },
             { label: "Hiragana", value: "hiragana" },
             { label: "Katakana", value: "katakana" },
+            { label: "TH Kedmanee", value: "th_kedmanee" },
           ]}
           handler={(val) => {
             dispatch(keyActions.setLegendSecondaryStyle(val));
