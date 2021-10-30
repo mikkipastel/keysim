@@ -181,6 +181,10 @@
     "KC_SLSH": {
       "top": "ฦ",
       "bottom": "ฝ"
+    },
+    "KC_BSLS": {
+      "top": "ฅ",
+      "bottom": "ฃ"
     }
   }
 }
