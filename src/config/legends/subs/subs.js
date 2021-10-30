@@ -10,6 +10,7 @@ import devanagari from "./devanagari.json";
 import czech from "./czech.json";
 import th_kedmanee from "./th-kedmanee";
 import th_pattajoti from "./th-pattajoti";
+import th_manoonchai from "./th-manoonchai";
 
 const SUBS = {
   arabic: arabic,
@@ -24,6 +25,7 @@ const SUBS = {
   czech: czech,
   th_kedmanee: th_kedmanee,
   th_pattajoti: th_pattajoti,
+  th_manoonchai: th_manoonchai,
 };
 
 export default SUBS;

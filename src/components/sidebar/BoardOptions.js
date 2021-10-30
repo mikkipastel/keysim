@@ -92,6 +92,7 @@ export default function BoardOptions() {
             { label: "Katakana", value: "katakana" },
             { label: "TH Kedmanee", value: "th_kedmanee" },
             { label: "TH Pattajoti", value: "th_pattajoti" },
+            { label: "TH Manoonchai", value: "th_manoonchai" },
           ]}
           handler={(val) => {
             dispatch(keyActions.setLegendSecondaryStyle(val));
