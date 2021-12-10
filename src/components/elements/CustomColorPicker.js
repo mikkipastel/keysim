@@ -49,7 +49,7 @@ export const MyPicker = ({ hex, hsl, hsv, onChange, onClose }) => {
       if (node.current) node.current.querySelector("input").focus();
     }, 50);
     return onClose;
-  }, []);
+  }, [onClose]);
 
   const swatches = Object.keys(colorCodes).map((code) => {
     return (

@@ -14,6 +14,7 @@ export default function QuickActions() {
         href="https://github.com/crsnbrt/keysim"
         aria-label="keyboard simulator on github"
         target="_blank"
+        rel="noopener noreferrer"
       >
         <GithubIcon />
       </a>

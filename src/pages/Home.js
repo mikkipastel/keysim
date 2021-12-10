@@ -5,6 +5,7 @@ import QuickActions from "../components/quickActions/QuickActions";
 
 export default function Home() {
   const rootEl = useRef(null);
+  // eslint-disable-next-line no-unused-vars
   const [showSidebar, setShowSidebar] = useState(true);
 
   useEffect(() => {
